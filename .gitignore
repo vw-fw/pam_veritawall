@@ -1,0 +1,14 @@
+*.a
+*.debug
+*.depend
+*.full
+*.gz
+*.in
+*.lo
+*.o
+*.pico
+*.po
+*.so
+*~
+bin/veritawall-login
+libexec/veritawall-pam
